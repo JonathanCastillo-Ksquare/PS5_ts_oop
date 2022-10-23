@@ -1,0 +1,15 @@
+{
+  "name": "ts-bascis",
+  "version": "0.0.1",
+  "description": "prob_1_JonathanCastillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
